@@ -21,6 +21,13 @@ Welcome to the **Computer Science Blog Project**! This is a web-based platform d
 - **styles.css**: Custom CSS file for styling the blog.
 - **script.js**: JavaScript file for interactive functionality.
 
+## Screenshots
+![Screenshot 2025-01-05 180616](https://github.com/user-attachments/assets/5a6e1cf1-41cf-49ab-b911-67c98e3fd505)
+![Screenshot 2025-01-05 180642](https://github.com/user-attachments/assets/da67713c-eb67-46e5-a2cc-0bcf2dd70d96)
+![Screenshot 2025-01-05 180702](https://github.com/user-attachments/assets/4624b055-bfec-4dbd-804b-65ca172032c1)
+![Screenshot 2025-01-05 180718](https://github.com/user-attachments/assets/45e40e33-3ae9-4f4e-a353-e2c22f15e0b2)
+
+
 ### Dependencies
 - [Bootstrap 5.3.0](https://getbootstrap.com/docs/5.3/getting-started/introduction/): Used for responsive design and pre-styled components.
 
